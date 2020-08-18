@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 4.0.8
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= kjf
+$$ /Users/kjf/bruker/750WB/kjfritzsching/fROCSA_His_CO/84/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-04-29 20:38:00.429 +0000>,<root>,<BladeEpu>,<go4>,<TopSpin 4.0.7>,
+      <created by zg on 'Avance' (nitro) by user 'ek3044'
+       on data set with UUID '131afb1c-8a4e-11ea-ae2c-0013952a9a8a'
+       started at 2020-04-29 19:17:32.159 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2020-04-29 20:38:00.429 +0000
+       configuration hash MD5:
+       D5 DE BE 9B C8 D4 0E AA E9 8A 3C 9A 39 2F FA EF
+       double data hash MD5: 1536 * 50
+       24 FA B7 7E 61 C4 EC 03 84 78 5B 10 60 94 A7 B4>)
+$$ /opt/nmrdata/ek3044/202003_egk/84/audita.txt
+(   2,<2020-04-29 16:34:29.707 -0400>,<ek3044>,<nitro.chem.columbia.edu>,<sertoint>,<TopSpin 4.0.7>,
+      <sertoint
+       data hash MD5: 1536 * 50
+       87 37 07 63 21 AD F9 C7 B1 6C 8F 84 1B 36 DD B9>)
+(   3,<2020-08-17 20:54:13.154 -0400>,<kjf>,<doppio.local>,<proc2d>,<TopSpin 4.0.8>,
+      <Start of raw data processing
+       xfb F2: SI = 4K WDW = 1 LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 244.6 PHC1 = 12 F1: TDeff = 40 SI = 512 WDW = 1 LB = 25 FT_mod = 4 FCOR = 0.5 REVERSE PHC0 = -1 PHC1 = 0
+       data hash MD5: 4K * 512
+       DD 29 FB AD CB 55 12 56 82 92 97 CD 17 07 27 19>)
+##END=
+
+$$ hash MD5
+$$ 46 B2 72 B5 5F 1A 3F 7A 9A E9 92 12 B8 21 CB 1A

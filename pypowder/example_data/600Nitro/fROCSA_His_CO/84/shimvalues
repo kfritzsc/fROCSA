@@ -1,0 +1,92 @@
+# Wed Apr 29 19:19:11 2020
+#$$PROBEIDENTIFIER=0016_0001
+#$$PROBENAME=Phoenix 1.6 mm - HFXYD
+#$$SHIMID=272623
+#
+# Active Shim Gradients
+#
+Z           		27950           
+Z2          		0               
+Z3          		0               
+Z4          		0               
+Z5          		0               
+Z6          		0               
+X           		0               
+XZ          		0               
+XZ2         		0               
+XZ3         		0               
+XZ4         		0               
+Y           		0               
+YZ          		0               
+YZ2         		0               
+YZ3         		0               
+YZ4         		0               
+XY          		0               
+XYZ         		0               
+XYZ2        		0               
+XYZ3        		0               
+(X2-Y2)     		0               
+(X2-Y2)Z    		0               
+(X2-Y2)Z2   		0               
+(X2-Y2)Z3   		0               
+X3          		0               
+X3Z         		0               
+Y3          		0               
+Y3Z         		0               
+#
+# Lock Parameter
+#
+FIELD		2508.326
+LOCKPHASE		 122.200
+LOCKPOWER		 -20.000
+LOCKGAIN		 111.914
+LOCKDC		 -75.000
+LOCKSHIFT		   7.240
+LOOPGAIN		  -9.400
+LOOPTIME		   0.464
+LOOPFILTER		  50.000
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [ 1]    12479.18100000
+SHIM_SETTING [ 2]   -16640.13800000
+SHIM_SETTING [ 3]     2956.26100000
+SHIM_SETTING [ 4]     9732.12600000
+SHIM_SETTING [ 5]   -16390.81500000
+SHIM_SETTING [ 6]   -21131.27000000
+SHIM_SETTING [ 7]    24601.63900000
+SHIM_SETTING [ 8]   -14040.05400000
+SHIM_SETTING [ 9]    21493.25100000
+SHIM_SETTING [10]    -2669.64600000
+SHIM_SETTING [11]     1092.39500000
+SHIM_SETTING [12]        0.00000000
+SHIM_SETTING [13]        0.00000000
+SHIM_SETTING [14]        0.00000000
+SHIM_SETTING [15]     4421.06900000
+SHIM_SETTING [16]    -4421.06900000
+SHIM_SETTING [17]    -2845.24300000
+SHIM_SETTING [18]     2845.24300000
+SHIM_SETTING [19]    12737.31900000
+SHIM_SETTING [20]   -12737.31900000
+SHIM_SETTING [21]     7300.93600000
+SHIM_SETTING [22]    -6051.92000000
+SHIM_SETTING [23]    -6238.29000000
+SHIM_SETTING [24]     8929.15300000
+SHIM_SETTING [25]    23622.40800000
+SHIM_SETTING [26]   -21685.15200000
+SHIM_SETTING [27]        0.00000000
+SHIM_SETTING [28]    -5618.98300000
+SHIM_SETTING [29]   -25210.46200000
+SHIM_SETTING [30]    24663.53900000
+SHIM_SETTING [31]     3616.17800000
+SHIM_SETTING [32]     5618.98300000
+SHIM_SETTING [33]    -7525.63900000
+SHIM_SETTING [34]     7173.01900000
+SHIM_SETTING [35]     7968.22700000
+SHIM_SETTING [36]    -8727.90700000
+SHIM_SETTING [37]    16188.56800000
+SHIM_SETTING [38]   -16188.56800000
+SHIM_SETTING [39]    -3616.17800000
+SHIM_SETTING [40]        0.00000000

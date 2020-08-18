@@ -1,0 +1,9 @@
+numpy
+scipy
+lmfit
+nmrglue
+emcee
+corner
+tqdm
+pandas
+numdifftools

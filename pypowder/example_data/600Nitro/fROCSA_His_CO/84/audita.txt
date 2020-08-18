@@ -1,0 +1,24 @@
+##TITLE= Audit trail, TopSpin 4.0.7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/202003_egk/84/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-04-29 20:38:00.429 +0000>,<root>,<BladeEpu>,<go4>,<TopSpin 4.0.7>,
+      <created by zg on 'Avance' (nitro) by user 'ek3044'
+       on data set with UUID '131afb1c-8a4e-11ea-ae2c-0013952a9a8a'
+       started at 2020-04-29 19:17:32.159 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2020-04-29 20:38:00.429 +0000
+       configuration hash MD5:
+       D5 DE BE 9B C8 D4 0E AA E9 8A 3C 9A 39 2F FA EF
+       double data hash MD5: 1536 * 50
+       24 FA B7 7E 61 C4 EC 03 84 78 5B 10 60 94 A7 B4>)
+$$ /opt/nmrdata/ek3044/202003_egk/84/audita.txt
+(   2,<2020-04-29 16:34:29.707 -0400>,<ek3044>,<nitro.chem.columbia.edu>,<sertoint>,<TopSpin 4.0.7>,
+      <sertoint
+       data hash MD5: 1536 * 50
+       87 37 07 63 21 AD F9 C7 B1 6C 8F 84 1B 36 DD B9>)
+##END=
+
+$$ hash MD5
+$$ DF E3 DA B2 DB AD C8 79 64 CB E2 0B 83 E7 DA 30

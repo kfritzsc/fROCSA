@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= ek3044
+$$ 2020-04-29 16:05:58.161 -0400  ek3044@nitro.chem.columbia.edu
+$$ /opt/nmrdata/ek3044/202003_egk/84/pdata/1/assocs
+$$ process /opt/topspin4.0.7/prog/mod/dataserver
+##$MULTDISP= <>
+##END=
