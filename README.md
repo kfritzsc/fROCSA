@@ -5,7 +5,7 @@ fROCSA is a solid-state NMR pulse sequence for recoupling chemical shift anisotr
 
 The pulse programs were tested on a Bruker Neo spectrometer with Topspin 4.0.7. The anisotropic spectrum must be inversed during processing. 
 
-The needed python packages for the fitting functions can be installed with: `<pip install requirements.txt -r >'. Please remember to use the correct scaling factor from our paper.
+The needed python packages for the fitting functions can be installed with: `pip install requirements.txt -r `. Please remember to use the correct scaling factor from our paper.
 
 The Mathematica notebooks we wrote to calculate the scaling factors of the fROCSA sequence are also given.
 
