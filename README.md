@@ -1,7 +1,7 @@
 # fROCSA
 Bruker pulse programs and CSA fitting example for fROCSA 
 
-fROCSA is a solid-state NMR pulse sequence for recoupling chemical shift anisotropy in an indirect dimension during a MAS experiment. Please find more information about this work in our [paper](https://doi.org/10.1063/5.0020682).  A peer-reviewed version of this manuscript is in press at the Journal of Chemical Physics. 
+fROCSA is a solid-state NMR pulse sequence for recoupling chemical shift anisotropy in an indirect dimension during a MAS experiment. Please find more information about this work in our [paper](https://doi.org/10.1063/5.0020682). 
 
 The pulse programs were tested on Bruker Neo spectrometers with Topspin 4.0.7. The anisotropic spectrum must be reversed during processing. 
 
